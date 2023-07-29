@@ -6,6 +6,9 @@ This repository contains a simple HTML and CSS code to create a rainy animation 
 
 https://github.com/lilblueyes/Rainy-Animation/assets/101664783/98e741e4-5047-4c18-a60c-bd721ab490f7
 
+https://lilblueyes.github.io/Rainy-Animation/
+
+
 ## How to Use
 
 1. Clone this repository to your local machine.
